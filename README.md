@@ -12,7 +12,7 @@
 - 📫 How to reach me **snehitroda07@gmail.com**
 
 ### Snapshot
-- ☁️ AWS Certified Solutions Architect – Associate
+- ☁️ [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/b9855226-38a1-4acb-8a76-a9e5ed6ce7e6/public_url)
 - 💡 Built Spring Boot microservices reducing API latency by **40%**
 - 🧩 Designed ETL pipelines processing **1M+ records/day** at CIMB Bank
 - 🚀 Automated data capture with AWS Lambda
