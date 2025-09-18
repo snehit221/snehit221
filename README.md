@@ -1,20 +1,26 @@
 <h1 align="center">Hi 👋, I'm Snehit Roda</h1>
-<h3 align="center">Full Stack Software Engineer and AWS certified Solutions Architect</h3>
+<h3 align="center">Java | Spring Boot | AWS Solutions Architect | Built APIs scaling to millions of users </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=snehit221&label=Profile%20views&color=0e75b6&style=flat" alt="snehit221" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snehit221" alt="snehit221" /></a> </p>
+- 🎓 I’m a Master’s in Computer Science graduate from **Dalhousie University**
+  
+- 👯 I’m looking to collaborate on **AWS Cloud Native and Backend Projects**
 
 - 👨‍💻 All of my projects are available at [https://snehit-portfolio.netlify.app/](https://snehit-portfolio.netlify.app/)
 
-- 💬 Ask me about **AWS, Java, REST, Spring Boot, System Design**
+- 💬 Ask me about **AWS, Java, REST, Spring Boot, System Design, Microservices**
 
 - 📫 How to reach me **snehitroda07@gmail.com**
 
+### Snapshot
+- ☁️ AWS Certified Solutions Architect – Associate
+- 💡 Built Spring Boot microservices reducing API latency by **40%**
+- 🧩 Designed ETL pipelines processing **1M+ records/day** at CIMB Bank
+- 🚀 Automated data capture with AWS Lambda
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/snehit-roda07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/snehit-roda07/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/snehit221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/snehit221/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/snehit-roda07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/snehit-roda07/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/snehit221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/snehit221/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
